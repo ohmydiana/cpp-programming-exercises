@@ -1,0 +1,4 @@
+# ninja log v6
+1	57	1772799343339706605	build.ninja	202306f0d5d154e
+0	665	1772799343347620861	CMakeFiles/excercise04_mail_server_log.dir/main.cpp.o	22842ad600fe9dad
+667	761	1772799344014463914	excercise04_mail_server_log	c4649b340dea2034

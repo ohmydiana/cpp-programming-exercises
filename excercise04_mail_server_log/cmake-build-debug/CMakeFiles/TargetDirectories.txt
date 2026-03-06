@@ -1,0 +1,3 @@
+/Users/diana/Documents/github/cpp-programming-exercises/excercise04_mail_server_log/cmake-build-debug/CMakeFiles/excercise04_mail_server_log.dir
+/Users/diana/Documents/github/cpp-programming-exercises/excercise04_mail_server_log/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diana/Documents/github/cpp-programming-exercises/excercise04_mail_server_log/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/diana/Documents/github/cpp-programming-exercises/excercise05_linker/cmake-build-debug/CMakeFiles/excercise05_linker.dir
+/Users/diana/Documents/github/cpp-programming-exercises/excercise05_linker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diana/Documents/github/cpp-programming-exercises/excercise05_linker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
